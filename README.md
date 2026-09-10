@@ -248,4 +248,4 @@ This repository serves as the official landing page for Norton Ghost. The softwa
 **Get the most recent version of Norton Ghost today!**
 
 ---
-**Last updated:** 2026-09-10 10:36:39 UTC
+**Last updated:** 2026-09-10 14:48:35 UTC
